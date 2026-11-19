@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Hakkımda
 
-Mekatronik mühendisliği altyapımı yazılım geliştirme, ilişkisel veritabanları ve endüstriyel otomasyon deneyimimle birleştiriyorum. ERP ve MES sistemleri, web servisleri ve API'ler, raporlama ve sahadan veri toplama projelerinde çalıştım.
+Mekatronik Yüksek Mühendisliği altyapımı yazılım geliştirme, ilişkisel veritabanları ve endüstriyel otomasyon deneyimimle birleştiriyorum. ERP ve MES sistemleri, web servisleri ve API'ler, raporlama ve sahadan veri toplama projelerinde çalıştım.
 
 - 🏭 **Aster Textile'da Sistem Geliştirme Kıdemli Uzmanı** olarak yazılım geliştirme, raporlama, süreç yönetimi ve ERP/MES çalışmalarında görev alıyorum.
 - 🗄️ **SQL Server ve T-SQL** ile veritabanı yapıları, view'lar, saklı prosedürler ve raporlar üzerinde çalışıyorum.
